@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click to View My Up-to-date Curriculum Vitae [PDF](https://shubhamsarwade.github.io/files/CV.pdf)
+Click to view the [PDF](https://shubhamsarwade.github.io/files/CV.pdf)
