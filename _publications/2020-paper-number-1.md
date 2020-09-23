@@ -1,7 +1,7 @@
 ---
 title: "Bridge Inspection with Aerial Robots: Automating the Entire Pipeline of Visual Data Capture, 3D Mapping, Defect Detection, Analysis and Reporting"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-paper-number-1
 excerpt: ''
 venue: 'Journal of Computing in Civil Engineering'
 paperurl: ''
