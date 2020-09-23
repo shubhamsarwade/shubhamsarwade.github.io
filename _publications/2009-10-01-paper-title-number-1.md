@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Bridge Inspection with Aerial Robots: Automating the Entire Pipeline of Visual Data Capture, 3D Mapping, Defect Detection, Analysis and Reporting"
 collection: publications
@@ -9,22 +8,6 @@ paperurl: ''
 citation: 'Jacob J. Lin, Amir Ibrahim, Shubham Sarwade, and Mani Golparvar-Fard. &quot;Bridge Inspection with Aerial Robots: Automating the Entire Pipeline of Visual Data Capture, 3D Mapping, Defect Detection, Analysis and Reporting.&quot; <i>Journal of Computing in Civil Engineering</i>.'
 ---
 
-
 [Download paper here]()
 
-=======
----
-title: "Bridge Inspection with Aerial Robots: Automating the Entire Pipeline of Visual Data Capture, 3D Mapping, Defect Detection, Analysis and Reporting"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: ''
-venue: 'Journal of Computing in Civil Engineering'
-paperurl: ''
-citation: 'Jacob J. Lin, Amir Ibrahim, Shubham Sarwade, and Mani Golparvar-Fard. &quot;Bridge Inspection with Aerial Robots: Automating the Entire Pipeline of Visual Data Capture, 3D Mapping, Defect Detection, Analysis and Reporting.&quot; <i>Journal of Computing in Civil Engineering</i>.'
----
-
-
-[Download paper here]()
-
->>>>>>> 3f7ca581428f755df66db3cf6e84b4cdfa5a5a2c
 Recommended citation: Jacob J. Lin, Amir Ibrahim, Shubham Sarwade, and Mani Golparvar-Fard. &quot;Bridge Inspection with Aerial Robots: Automating the Entire Pipeline of Visual Data Capture, 3D Mapping, Defect Detection, Analysis and Reporting.&quot; <i>Journal of Computing in Civil Engineering</i>.
