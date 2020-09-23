@@ -1,5 +1,8 @@
 # main links links
-main:    
+main:        
+  - title: "CV"
+    url: /cv/
+
   - title: "Experience"
     url: /experience/
 
@@ -8,9 +11,6 @@ main:
 
   - title: "Projects"
     url: /projects/    
-    
-  - title: "CV"
-    url: /cv/
 
   - title: "Teaching"
     url: /teaching/    
