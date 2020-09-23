@@ -12,4 +12,4 @@ citation: 'Jacob J. Lin, Amir Ibrahim, Shubham Sarwade, and Mani Golparvar-Fard.
 
 [Download paper here]()
 
-Recommended citation: Jacob J. Lin, Amir Ibrahim, Shubham Sarwade, and Mani Golparvar-Fard. &quot;Bridge Inspection with Aerial Robots: Automating the Entire Pipeline of Visual Data Capture, 3D Mapping, Defect Detection, Analysis and Reporting.&quot; <i>Journal of Computing in Civil Engineering</i>.
+Recommended citation: Jacob J. Lin, Amir Ibrahim, Shubham Sarwade, and Mani Golparvar-Fard. "Bridge Inspection with Aerial Robots: Automating the Entire Pipeline of Visual Data Capture, 3D Mapping, Defect Detection, Analysis and Reporting." <i>Journal of Computing in Civil Engineering</i>.
