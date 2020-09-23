@@ -10,5 +10,3 @@ citation: 'Jacob J. Lin, Amir Ibrahim, Shubham Sarwade, and Mani Golparvar-Fard 
 ---
 
 [Download paper here]()
-
-Recommended citation: Jacob J. Lin, Amir Ibrahim, Shubham Sarwade, and Mani Golparvar-Fard (2020). &quot;Bridge Inspection with Aerial Robots and Computer Vision: A Japanese National Initiative.&quot; <i>International Symposium on Automation and Robotics in Construction (ISARC)</i>.
