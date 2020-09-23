@@ -1,16 +1,16 @@
 # main links links
-main:
+main:    
+  - title: "Experience"
+    url: /experience/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Projects"
     url: /projects/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Experience"
-    url: /experience/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Teaching"
+    url: /teaching/    
