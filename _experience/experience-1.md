@@ -1,5 +1,5 @@
 ---
-title: "Consultant | EXL Services"
+title: "Consultant at EXL Services"
 excerpt: "<i>Operations Management, Analytics<i><br/><img src='/images/500x300.png'>"
 collection: experience
 ---

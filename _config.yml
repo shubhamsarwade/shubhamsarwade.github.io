@@ -85,10 +85,10 @@ author:
   bio              : "Masters Student, \n Construction Engineering and Management, \nUniversity of Illinois"
   location         : "Champaign, IL"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=CNJITEIAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Shubham_Sarwade"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "shubham_sarwade"
   vine             :
   weibo            :
   xing             :
